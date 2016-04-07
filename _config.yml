@@ -1,0 +1,26 @@
+safe: true
+permalink: /:title.html
+exclude: [ assets, bem-components-demo, compare ]
+markdown: kramdown
+
+default_theme: yandex
+default_width: 792
+default_lang: ru
+default_body_class: list
+
+kramdown:
+  enable_coderay: false
+
+presentation:
+    title: БЭМ без bem-tools
+    service: БЭМ
+    nda: false
+
+author:
+    name: Владимир Гриненко, Виталий Харисов
+    position: 8 апреля 2016, DUMP, Екатеринбург
+    company:
+        name: Яндекс
+        url:  https://yandex.ru/
+
+progress: true
