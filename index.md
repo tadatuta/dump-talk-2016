@@ -96,7 +96,7 @@ layout: default
 
 ## **[Demo](https://jsfiddle.net/tadatuta/jfztfdjo/)**
 
-## **JavaScript по БЭМ&nbsp;— тоже легко**
+## **JavaScript по БЭМ&nbsp;—<br>тоже легко**
 
 <footer>
     Следующая часть БЭМ — это история про JS.

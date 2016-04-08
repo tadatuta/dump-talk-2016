@@ -40,8 +40,10 @@ body.list
 
 .slide > div
 {
-    width: 937px;
-    height: 731px;
+    /*width: 937px;*/
+    width: 1193px;
+    /*height: 731px;*/
+    height: 763px;
     padding: 35px 44px 0 44px;
 }
 
@@ -865,5 +867,12 @@ ul li a:after
 .shout img,
 .cover img {
     max-width: 100%;
-    max-height: 600px;
+    max-height: 700px;
+}
+
+.slide, .full {
+    width: 1280px !important;
+    height: 800px !important;
+    /*margin: -320px 0 0 -512px;*/
+    margin: -400px 0 0 -640px
 }
